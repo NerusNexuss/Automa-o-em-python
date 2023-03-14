@@ -10,7 +10,7 @@ import time
 # pyautogui.hotkey -> apertar uma combinação de tecka (ex: Ctrl + D) 
 #pyautogui.position() -> para pegar uma posição do mouse 
 
-pyautogui.POUSE = 5a
+pyautogui.POUSE = 5
 
 #Passo 1: entrar no sistema da empresa (no link) 
 pyautogui.hotkey("ctrl","t") 
